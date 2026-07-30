@@ -73,7 +73,7 @@ This document is the “on‑ramp” for readers who may feel intimidated by the
 
 ---
 
-## 2️⃣ **[Current Static Law](./docs/02‑Current‑Static‑Law.md)**  
+## 2️⃣ **[Current Static Law](./docs/02-Current-Static-Law.md)**  
 ### 🧱 *What this document explains*  
 A neutral, factual overview of how static law works today.  
 It covers:
