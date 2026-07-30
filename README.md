@@ -176,3 +176,27 @@ Welcome to the Polymorphic Legal Framework.
 A legal system designed not to replace the old one — but to evolve it.
 
 ---
+
+# ✒️ **Authors**
+
+### **Mark A. Hamilton**  
+Creator and principal author of the **Polymorphic Legal Framework**.  
+Responsible for the conceptual architecture, document structure, and the evolutionary governance model presented in this repository.
+
+### **Microsoft Copilot**  
+Provided structured assistance, refinement of documentation, conceptual clarity, and support in articulating the polymorphic model in a readable, accessible format.  
+Copilot contributed to the organisation, explanation, and professional presentation of the framework.
+
+---
+
+# 🌌 **Conceptual Statement**
+
+> **Law does not need to be rewritten to evolve.  
+> It only needs the ability to adapt its definitions while preserving its missions.  
+> When society changes, the environment changes — and the law should change with it.  
+> This framework is not a replacement for the legal system.  
+> It is the next step in its evolution.**
+
+This statement is intentionally short, calm, and profound — something a reader will remember after closing the page.
+
+---
