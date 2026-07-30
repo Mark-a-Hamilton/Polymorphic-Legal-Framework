@@ -131,7 +131,7 @@ This is the “how to deploy it in the real world” document.
 
 ---
 
-## 6️⃣ **[Real-World Example](./docs/06‑Realworld‑Example.md)**  
+## 6️⃣ **[Real-World Example](./docs/06-Realworld-Example.md)**  
 ### 🌍 *What this document explains*  
 A practical demonstration of how polymorphic law works in real life.  
 It shows:
