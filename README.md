@@ -117,7 +117,7 @@ This document is ideal for readers who want a quick “compare and contrast”.
 
 ---
 
-## 5️⃣ **[Implementation](./docs/05‑Implementation.md)**  
+## 5️⃣ **[Implementation](./docs/05-Implementation.md)**  
 ### 🚀 *What this document explains*  
 How a government can implement polymorphic law **without ratifying new laws**.  
 It covers:
