@@ -59,7 +59,7 @@ Below is a simple guide to each base document.
 # **📚 Base Documents Overview**
 *Each section includes a short introduction and a link to the full document.*
 
-## 1️⃣ **[Polymorphism Principle](./docs/1‑Polymorphism‑Principle.md)**  
+## 1️⃣ **[Polymorphism Principle](./docs/01‑Polymorphism‑Principle.md)**  
 ### 🔬 *What this document explains*  
 A gentle introduction to polymorphism as a concept.  
 It covers:
@@ -73,7 +73,7 @@ This document is the “on‑ramp” for readers who may feel intimidated by the
 
 ---
 
-## 2️⃣ **[Current Static Law](./docs/2‑Current‑Static‑Law.md)**  
+## 2️⃣ **[Current Static Law](./docs/02‑Current‑Static‑Law.md)**  
 ### 🧱 *What this document explains*  
 A neutral, factual overview of how static law works today.  
 It covers:
@@ -87,7 +87,7 @@ This document sets the stage for understanding why evolution is needed.
 
 ---
 
-## 3️⃣ **[Polymorphic Law](./docs/3‑Polymorphic‑Law.md)**  
+## 3️⃣ **[Polymorphic Law](./docs/03‑Polymorphic‑Law.md)**  
 ### 🔄 *What this document explains*  
 The core of the framework.  
 It introduces:
@@ -102,7 +102,7 @@ This document links to the deeper mechanics (House of Experts, Cascading Methodo
 
 ---
 
-## 4️⃣ **[Static vs Polymorphic Law](./docs/4‑Static‑v‑Polymorphic‑Law.md)**  
+## 4️⃣ **[Static vs Polymorphic Law](./docs/04‑Static‑v‑Polymorphic‑Law.md)**  
 ### ⚖️ *What this document explains*  
 A side‑by‑side comparison of static and polymorphic law.  
 It covers:
@@ -117,7 +117,7 @@ This document is ideal for readers who want a quick “compare and contrast”.
 
 ---
 
-## 5️⃣ **[Implementation](./docs/5‑Implementation.md)**  
+## 5️⃣ **[Implementation](./docs/05‑Implementation.md)**  
 ### 🚀 *What this document explains*  
 How a government can implement polymorphic law **without ratifying new laws**.  
 It covers:
@@ -131,7 +131,7 @@ This is the “how to deploy it in the real world” document.
 
 ---
 
-## 6️⃣ **[Real-World Example](./docs/6‑Realworld‑Example.md)**  
+## 6️⃣ **[Real-World Example](./docs/06‑Realworld‑Example.md)**  
 ### 🌍 *What this document explains*  
 A practical demonstration of how polymorphic law works in real life.  
 It shows:
