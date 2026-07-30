@@ -87,7 +87,7 @@ This document sets the stage for understanding why evolution is needed.
 
 ---
 
-## 3️⃣ **[Polymorphic Law](./docs/03‑Polymorphic‑Law.md)**  
+## 3️⃣ **[Polymorphic Law](./docs/03-Polymorphic-Law.md)**  
 ### 🔄 *What this document explains*  
 The core of the framework.  
 It introduces:
