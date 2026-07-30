@@ -102,7 +102,7 @@ This document links to the deeper mechanics (House of Experts, Cascading Methodo
 
 ---
 
-## 4️⃣ **[Static vs Polymorphic Law](./docs/04‑Static‑v‑Polymorphic‑Law.md)**  
+## 4️⃣ **[Static vs Polymorphic Law](./docs/04-Static-v-Polymorphic-Law.md)**  
 ### ⚖️ *What this document explains*  
 A side‑by‑side comparison of static and polymorphic law.  
 It covers:
