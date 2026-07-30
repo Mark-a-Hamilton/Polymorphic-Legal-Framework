@@ -59,7 +59,7 @@ Below is a simple guide to each base document.
 # **📚 Base Documents Overview**
 *Each section includes a short introduction and a link to the full document.*
 
-## 1️⃣ **[Polymorphism Principle](./docs/01‑Polymorphism‑Principle.md)**  
+## 1️⃣ **[Polymorphism Principle](./docs/01-Polymorphism-Principle.md)**  
 ### 🔬 *What this document explains*  
 A gentle introduction to polymorphism as a concept.  
 It covers:
