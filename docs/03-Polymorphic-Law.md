@@ -157,7 +157,7 @@ This resolves the mismatch between:
 🔁 [Current Static Law](./02-Current-Static-Law.md)   
 🏛️ [RHouse of Experts](./07-House-of-Experts.md)    
 👤 [Prime Ministers Role](./10-PM-Role.md)>    
-🗳️ [README.md](../README.md)  <link>../layer2/Elections.md</link>
+🗳️ [Elections](./09-Election-Mechanism.md)  <link>../layer2/Elections.md</link>
 
 
 ---
