@@ -1,3 +1,7 @@
+# **[Navigate Back to README.md](../README.md)**
+   
+---
+
 # **2️⃣ Current Static Law**
 
 ## **🧱 Introduction**
