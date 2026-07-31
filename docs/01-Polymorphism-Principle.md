@@ -1,5 +1,3 @@
-# [Navigate Back to README.md](../README.md)
-
 # **1️⃣ Polymorphism Principle**
 
 ## 🌱 **1. Introduction — For Readers With No Prior Experience**
@@ -116,5 +114,10 @@ Polymorphism is simply:
 Once the roots are understood, the concept becomes clear, intuitive, and familiar.
 
 This is the entire purpose of this page — to make polymorphism accessible to any reader, regardless of background.
+
+---
+
+### 🔗 **Navigation**
+📘 [README.md](../README.md)    
 
 ---
