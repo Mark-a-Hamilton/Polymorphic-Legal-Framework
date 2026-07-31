@@ -149,7 +149,7 @@ The electorate approves the update mechanism through general elections.
 
 Supporting documents:  
 🏛️ [House of Experts](./07-House-of-Experts.md)     
-👤 <link>../layer2/PM-Role.md</link>  
+👤 [Prime Ministers Role](./10-PM-Role.md)  
 🗳️ <link>../layer2/Elections.md</link>
 
 ### **Step 4 — Beginning Scheduled Updates**
