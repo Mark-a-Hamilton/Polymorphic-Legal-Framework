@@ -159,11 +159,11 @@ This is the governance shift created by polymorphic law.
 
 ### 🔗 **Navigation**
 📘 [README.md](../README.md)    
-🌱 <link>../03-Polymorphic-Law.md</link>  
-⚙️ <link>../05-Implementation.md</link>  
-🧩 <link>../04-Static-v-Polymorphic-Law.md</link>  
-🏛️ <link>../07-House-of-Experts.md</link>  
-🌊 <link>../08-Cascading-Methodology.md</link>  
+🌱 [Polymorphic Law](./03-Polymorphic-Law.md)  
+⚙️ [Implementation](./05-Implementation.md)  
+🧩 [Static b Polymorphic Law](./04-Static-v-Polymorphic-Law.md)  
+🏛️ [House of Experts](./07-House-of-Experts.md)  
+🌊 [Cascading Methodology](./08-Cascading-Methodology.md)  
 
 ---
 
