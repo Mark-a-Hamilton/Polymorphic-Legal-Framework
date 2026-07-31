@@ -1,6 +1,6 @@
 
 
-# **[Pavigate Back to README.md](../README.md)**
+# **[Navigate Back to README.md](../README.md)**
   
 ### 🔄 *What this document explains*  
 ---
