@@ -3,6 +3,8 @@
 ## 🧭 **Introduction**
 *A modern, adaptive approach to law that evolves with society while keeping its core missions intact.*
 
+Before progressing if you already have not done so it recommended that you visit the [Reformed Governance Architecture](https://github.com/Mark-a-Hamilton/Reformed_Government_Architecture)vas this is the environment the Polymorphic Legal Framework is designed to operate in.
+
 Most people feel the law is slow, outdated, and unable to keep pace with real‑world change.  
 Not because lawmakers don’t try — but because **static law is structurally incapable of evolving quickly**.
 
