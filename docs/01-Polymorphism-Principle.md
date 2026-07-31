@@ -5,7 +5,7 @@
 ### 🔄 *What this document explains*  
 ---
 
-# 3️⃣ **Polymorphism Principle**
+# 1️⃣  **Polymorphism Principle**
 
 ---
 
