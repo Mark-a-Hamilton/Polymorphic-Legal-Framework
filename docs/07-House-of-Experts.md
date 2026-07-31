@@ -165,8 +165,8 @@ The House of Experts is the structural component that makes polymorphic law poss
 🌱 <link>../03-Polymorphic-Law.md</link>  
 ⚙️ <link>../05-Implementation.md</link>  
 🧩 <link>../04-Static-v-Polymorphic-Law.md</link>  
-👤 <link>../08-PM-Role.md</link>  
-🗳️ <link>../09-Elections.md</link>
+🗳️ []()<link>../09-Elections.md</link>  
+👤 [Prime Ministers Role](./10-PM-Role.md)
 
 ---
 
