@@ -155,7 +155,7 @@ This resolves the mismatch between:
 📘 [README.md](../README.md)    
 1️⃣ [Polymorphic Principle](./01-Polymorphism-Principle.md)  
 🔁 [Current Static Law](./02-Current-Static-Law.md)   
-🏛️ [RHouse of Experts](../README.md) [README.md](../README.md) <link>../layer2/House-of-Experts.md</link>  
+🏛️ [RHouse of Experts](./07-House-of-Experts.md)  <link>../layer2/House-of-Experts.md</link>  
 👤 [README.md](../README.md) <link>../layer2/PM-Role.md</link>  
 🗳️ [README.md](../README.md)  <link>../layer2/Elections.md</link>
 
