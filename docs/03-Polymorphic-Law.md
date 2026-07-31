@@ -156,7 +156,7 @@ This resolves the mismatch between:
 1️⃣ [Polymorphic Principle](./01-Polymorphism-Principle.md)  
 🔁 [Current Static Law](./02-Current-Static-Law.md)   
 🏛️ [RHouse of Experts](./07-House-of-Experts.md)    
-👤 [README.md](../README.md) <link>../layer2/PM-Role.md</link>  
+👤 [RPrime Ministers Roled](.10-PM-Role.md) <link>../layer2/PM-Role.md</link>  
 🗳️ [README.md](../README.md)  <link>../layer2/Elections.md</link>
 
 
