@@ -34,7 +34,7 @@ Origin: Greek *morphē*
 
 ### **‑ic**  
 Meaning: *like / having the qualities of*  
-Function: describes behaviour or characteristIs ics
+Function: describes behaviour or characteristIs ics**  
 Is used as a Suffix
 
 ### **‑ism**  
