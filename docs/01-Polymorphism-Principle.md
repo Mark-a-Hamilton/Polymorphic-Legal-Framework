@@ -108,7 +108,7 @@ These words help anchor polymorphism within everyday language.
 
 ---
 
-## 💡 **7. The “Is That All It Is?” Moment**
+## 💡 **7. In a Nutshell**
 Polymorphism is simply:
 
 > **The idea that something can take many forms and behave differently depending on the situation.**
