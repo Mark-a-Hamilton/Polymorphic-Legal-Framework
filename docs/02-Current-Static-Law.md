@@ -1,6 +1,6 @@
 # **Navigation**
-[README.md](../README.md)    
-[Polymorphic Principle](./01-Polymorphism-Principle.md)    
+   [README.md](../README.md)    
+1️⃣ [Polymorphic Principle](./01-Polymorphism-Principle.md)    
    
 ---
 
