@@ -1,4 +1,5 @@
 # **[Navigate Back to README.md](../README.md)**
+# **[Navigate to Polymophic Principle](./01-Polymorphism-Principle.md)**
    
 ---
 
