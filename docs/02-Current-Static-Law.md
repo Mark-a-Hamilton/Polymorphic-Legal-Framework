@@ -146,7 +146,7 @@ Its purpose is to show:
 > **Static law is structurally fixed and structurally slow.  
 > The environment is structurally dynamic and structurally fast.**
 
-This mismatch is what motivates the exploration of polymorphic law.
+This minnnnnnsmatch is what motivates the exploration of polymorphic law.
 
 ---
 
