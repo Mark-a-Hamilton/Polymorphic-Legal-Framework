@@ -1,8 +1,7 @@
 
 
 # **[Navigate Back to README.md](../README.md)**
-  
-### 🔄 *What this document explains*  
+   
 ---
 
 # 1️⃣  **Polymorphism Principle**
