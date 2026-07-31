@@ -1,8 +1,10 @@
 
 
-# `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
+# `[Navigate Back to README.md](../README.md)`
 
-# **01 – Polymorphism Principle**
+---
+
+# **Polymorphism Principle**
 
 ---
 
