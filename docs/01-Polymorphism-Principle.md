@@ -34,11 +34,13 @@ Origin: Greek *morphē*
 
 ### **‑ic**  
 Meaning: *like / having the qualities of*  
-Function: describes behaviour or characteristics
+Function: describes behaviour or characteristIs ics
+Is used as a Suffix
 
 ### **‑ism**  
 Meaning: *the principle, system, or practice of X*  
 Function: describes a structured idea or conceptual framework
+Is used as a Suffix
 
 Once these roots are understood, the word becomes far less mysterious.
 
