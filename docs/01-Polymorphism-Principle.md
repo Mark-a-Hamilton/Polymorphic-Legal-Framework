@@ -83,8 +83,8 @@ The purpose of this framework is to correct that omission.
 
 This prepares the reader for the next two documents:
 
-- **[Current Static Law](../02-Current-Static-Law.md)**  
-- **[Polymorphic Law](../03-Polymorphic-Law.md)**
+- **[Current Static Law](./02-Current-Static-Law.md)**  
+- **[Polymorphic Law](./03-Polymorphic-Law.md)**
 
 By understanding the principle first, the reader is ready to see how Law can adopt it.
 
