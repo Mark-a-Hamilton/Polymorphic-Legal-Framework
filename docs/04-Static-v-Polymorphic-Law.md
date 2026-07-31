@@ -1,10 +1,6 @@
 # **4️⃣ Static Law vs Polymorphic Law**
-
-📘 <link>../README.md</link>
-
----
-
-# 🧱 **Introduction**
+<
+---# 🧱 **Introduction**
 This document compares the **Current UK Static Law** model with the **Polymorphic Law** model.  
 It is written so that any reader — whether curious, neutral, or completely new to the concept — can understand the difference clearly and relate it to real‑world behaviour.
 
@@ -129,15 +125,14 @@ This single structural change — separating constants from definitions — is w
 ---
 
 # **🔗 Navigation**
-
 🔁 <link>../02-Current-Static-Law.md</link>  
 🌱 <link>../03-Polymorphic-Law.md</link>  
 🧩 <link>../01-Polymorphism-Principle.md</link>
 
 ---
----
-
 ### 🔗 **Navigation**
 📘 [README.md](../README.md)    
+1️⃣ [Polymorphic Principle](./01-Polymorphism-Principle.md)  
+🔁 [Current Static Law](./02-Current-Static-Law.md)   
 
 ---
