@@ -114,12 +114,3 @@ Once the roots are understood, the concept becomes clear, intuitive, and familia
 This is the entire purpose of this page — to make polymorphism accessible to any reader, regardless of background.
 
 ---
-
-If you want, I can also generate:
-
-- a **diagram** for this page  
-- a **sidebar summary box**  
-- a **reverse link** back to the README.md  
-- a **Layer‑1 expansion** for the next document  
-
-Just tell me what you want next.
