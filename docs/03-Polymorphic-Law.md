@@ -154,7 +154,7 @@ This resolves the mismatch between:
 ### 🔗 **Navigation**
 📘 [README.md](../README.md)    
 1️⃣ [Polymorphic Principle](./01-Polymorphism-Principle.md)  
-🔁 [Current Static Law](./02-Current-Static-Law.md)   
+2️⃣ [Current Static Law](./02-Current-Static-Law.md)   
 🏛️ [House of Experts](./07-House-of-Experts.md)    
 🗳️ [Elections](./09-Election-Mechanism.md)  
 👤 [Prime Ministers Role](./10-PM-Role.md)>    
