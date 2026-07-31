@@ -1,9 +1,3 @@
-# **Navigation**
-   [README.md](../README.md)    
-1️⃣ [Polymorphic Principle](./01-Polymorphism-Principle.md)    
-   
----
-
 # **2️⃣ Current Static Law**
 
 ## **🧱 Introduction**
@@ -154,4 +148,10 @@ Its purpose is to show:
 
 This mismatch is what motivates the exploration of polymorphic law.
 
+---
+
+### 🔗 **Navigation**
+📘 [README.md](../README.md)    
+1️⃣ [Polymorphic Principle](./01-Polymorphism-Principle.md)    
+   
 ---
