@@ -153,9 +153,3 @@ Its purpose is to show:
 This mismatch is what motivates the exploration of polymorphic law.
 
 ---
-
-# **🔗 Next Document**
-**3️⃣ Polymorphic Law**  
-This document explains how adaptive definitions allow law to evolve without rewriting legislation.
-
----
