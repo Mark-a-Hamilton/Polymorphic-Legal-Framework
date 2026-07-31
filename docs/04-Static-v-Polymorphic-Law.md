@@ -1,6 +1,6 @@
 # **4️⃣ Static Law vs Polymorphic Law**
 <
----# 🧱 **Introduction**
+## 🧱 **Introduction**
 This document compares the **Current UK Static Law** model with the **Polymorphic Law** model.  
 It is written so that any reader — whether curious, neutral, or completely new to the concept — can understand the difference clearly and relate it to real‑world behaviour.
 
