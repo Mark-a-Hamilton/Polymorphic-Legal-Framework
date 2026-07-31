@@ -148,7 +148,7 @@ Still no ratification required.
 The electorate approves the update mechanism through general elections.
 
 Supporting documents:  
-🏛️ <link>../layer2/House-of-Experts.md</link>  
+🏛️ [House of Experts](./07-House-of-Experts.md)     
 👤 <link>../layer2/PM-Role.md</link>  
 🗳️ <link>../layer2/Elections.md</link>
 
