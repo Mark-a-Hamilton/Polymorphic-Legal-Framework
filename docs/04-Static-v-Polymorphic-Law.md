@@ -124,12 +124,6 @@ This single structural change — separating constants from definitions — is w
 
 ---
 
-# **🔗 Navigation**
-🔁 <link>../02-Current-Static-Law.md</link>  
-🌱 <link>../03-Polymorphic-Law.md</link>  
-🧩 <link>../01-Polymorphism-Principle.md</link>
-
----
 ### 🔗 **Navigation**
 📘 [README.md](../README.md)    
 1️⃣ [Polymorphic Principle](./01-Polymorphism-Principle.md)  
