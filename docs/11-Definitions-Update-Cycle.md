@@ -182,9 +182,88 @@ This prevents unnecessary change and maintains stability.
 
 ---
 
+# **9️🔁 9. Mandate Pipeline Diagram**
+
+## **📘 Purpose of This Diagram**  
+This diagram shows the full flow of a mandate from the electorate → PM → House of Experts → updated definitions → modernised legal environment.  
+It visually represents how **apolitical, aideological inputs** from the electorate become **technical updates** to definitions without altering missions or laws.
+
+---
+
+# **🔁 Mandate Pipeline Diagram**
+
+```
+                         ┌──────────────────────────────┐
+                         │  Electorate (Plain-English)   │
+                         │  Real-world problems & needs  │
+                         └───────────────┬───────────────┘
+                                         │
+                                         ▼
+                         ┌──────────────────────────────┐
+                         │  Election Cycle (Data Input)  │
+                         │  Information-gathering only   │
+                         └───────────────┬───────────────┘
+                                         │
+                                         ▼
+                         ┌──────────────────────────────┐
+                         │   PM (Chair of Governance)    │
+                         │ Issues apolitical instructions │
+                         └───────────────┬───────────────┘
+                                         │
+                                         ▼
+                         ┌──────────────────────────────┐
+                         │      House of Experts         │
+                         │ Identify downstream defs      │
+                         │ Technical, not ideological    │
+                         └───────────────┬───────────────┘
+                                         │
+                                         ▼
+                         ┌──────────────────────────────┐
+                         │   Definitions Update Cycle    │
+                         │  Only negatively impactful    │
+                         │  definitions are updated      │
+                         └───────────────┬───────────────┘
+                                         │
+                                         ▼
+                         ┌──────────────────────────────┐
+                         │  Updated Legal Environment    │
+                         │  Law stays stable; defs adapt │
+                         │  Always < 5 years old         │
+                         └───────────────────────────────┘
+```
+
+---
+
+# **🧭 Explanation of Flow**
+
+### **1️⃣ Electorate → Plain-English Inputs**  
+People describe real problems affecting daily life.  
+No ideology. No party politics.
+
+### **2️⃣ Election → Information Gathering**  
+Elections become diagnostic cycles.  
+The output is a **map of required definition updates**.
+
+### **3️⃣ PM → Apolitical Instruction**  
+The PM acts as a chair.  
+Instructions contain **no ideological direction**.
+
+### **4️⃣ House of Experts → Technical Analysis**  
+Experts identify **downstream definitions** that cause negative impact.  
+They propose **technical solutions**, not political ones.
+
+### **5️⃣ Definitions Update Cycle → Controlled Change**  
+Only definitions that cause measurable harm are updated.  
+Missions and laws remain stable.
+
+### **6️⃣ Updated Legal Environment → Modern & Responsive**  
+The environment the law operates in is always modern (<5 years old).  
+The law remains stable and constitutionally intact.
+
+---
+
 ### 🔗 **Navigation**
-📘 [README.md](../README.md)  
-1️⃣2️⃣ Mandate Pipeline Diagram  
+📘 [README.md](../README.md)    
 1️⃣3️⃣ Global Metric Example  
 1️⃣4️⃣ PM Interaction Flowchart  
 
