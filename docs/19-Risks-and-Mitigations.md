@@ -85,7 +85,7 @@ Polymorphic law is designed to address these risks at the architectural level.
 > Polymorphic law introduces structural mitigations.  
 > The framework flips the weaknesses of static law and resolves them at the architectural level.**
 
-This is the exact message your comparison page should convey — factual, neutral, and structurally accurate.
+This is the exact message the comparison page should convey — factual, neutral, and structurally accurate.
 
 ---
 
