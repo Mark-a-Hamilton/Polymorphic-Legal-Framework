@@ -182,7 +182,7 @@ This prevents unnecessary change and maintains stability.
 
 ---
 
-# **9️🔁 9. Mandate Pipeline Diagram**
+## **🔁 9. Mandate Pipeline Diagram**
 
 ## **📘 Purpose of This Diagram**  
 This diagram shows the full flow of a mandate from the electorate → PM → House of Experts → updated definitions → modernised legal environment.  
