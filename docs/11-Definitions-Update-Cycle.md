@@ -1,4 +1,4 @@
-# **11️⃣🔁 initions Update Cycle**
+# **1️⃣1️⃣🔁 Definitions Update Cycle**
 
 ## **📘 Purpose of This Document**  
 This document explains how the **Definitions Update Cycle** enables the electorate to directly influence how the law behaves, without changing the missions or rewriting legislation.  
@@ -184,8 +184,8 @@ This prevents unnecessary change and maintains stability.
 
 ### 🔗 **Navigation**
 📘 [README.md](../README.md)  
-12️⃣ Mandate Pipeline Diagram  
-13️⃣ Global Metric Example  
-14️⃣ PM Interaction Flowchart  
+1️⃣2️⃣ Mandate Pipeline Diagram  
+1️⃣3️⃣ Global Metric Example  
+1️⃣4️⃣ PM Interaction Flowchart  
 
 ---
