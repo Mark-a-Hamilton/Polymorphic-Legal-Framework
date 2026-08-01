@@ -1,4 +1,4 @@
-# **10️⃣ Prime Minister's Role — Chair of the Governance System**
+# **1️⃣0️⃣ Prime Minister's Role — Chair of the Governance System**
 
 ## **📘 Purpose of This Document**  
 Defines the Prime Minister’s role within the **Reformed Governance Architecture**, explaining how the PM acts as a **chair**, **coordinator**, and **mandate conductor** rather than a political executive.  
@@ -179,10 +179,10 @@ The PM is the **entry point** for cascading updates.
 
 ### 🔗 **Navigation**
 📘 [README.md](../README.md)    
-11️⃣ House‑of‑Experts.md  
-12️⃣🔁 Mandate Pipeline Diagram.md  
-13️⃣🌐 Global Metric Example.md  
-14️⃣🧭 PM Interaction Flowchart.md
+1️⃣1️⃣ House‑of‑Experts.md  
+1️⃣🔁 Mandate Pipeline Diagram.md  
+1️⃣3️⃣ Global Metric Example.md  
+1️⃣4️⃣ PM Interaction Flowchart.md
 
 ---
 
