@@ -154,9 +154,9 @@ These documents provide the mechanics behind the framework:
 - 8️⃣   **[Cascading Methodology](./docs/08-Cascading-Methodology.md)**
 - 9️⃣   **[Election Mechanisms](./docs/09-Election-Mechanism.md)**
 - 1️⃣0️⃣ **[Prime Minister's Role](./docs/0-PM-Role.md)**
-- 1️⃣1️⃣ **[Definitions Update Cycle](./docs/11-Definitions-Update-Cycle.md)**  
-- 🎯 **Mission‑Integrity.md**  
-- 🛡️ **Legal‑Safety‑and‑Continuity.md**  
+- 1️⃣1️⃣ **[Definitions Update Cycle](./docs/11-Definitions-Update-Cycle.md)**
+- 1️⃣2️⃣ **[](./docs/12-Legal-Safety-and-Continuity.md)**  
+- 1️⃣3️⃣ **[Mission Integrity](./docs/13-Mission-Integrity.md)**  
 - 🔍 **Root‑Cause‑Analysis.md**  
 - 🧩 **Governance‑Flow‑Diagram.md**
 - 1️⃣7️⃣📚 **[Glossary](./docs/17-Glossary.md)**  
