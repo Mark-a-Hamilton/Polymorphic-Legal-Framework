@@ -1,4 +1,4 @@
-# **1️⃣1️⃣🔁 Definitions Update Cycle**
+# **1️⃣1️⃣ Definitions Update Cycle**
 
 ## **📘 Purpose of This Document**  
 This document explains how the **Definitions Update Cycle** enables the electorate to directly influence how the law behaves, without changing the missions or rewriting legislation.  
