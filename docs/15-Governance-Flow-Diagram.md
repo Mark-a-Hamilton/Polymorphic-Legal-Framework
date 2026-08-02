@@ -1,4 +1,4 @@
-# **1️⃣5️⃣🔁 Governance Flow Diagram**
+# **1️⃣5️⃣ Governance Flow Diagram**
 
 ## **📘 Purpose of This Document**  
 This document shows the **full governance flow** of the Polymorphic Legal Framework — from electorate → MPs → Parliament → House of Experts → upstream definitions → updated legal environment → electorate. It illustrates how the system maintains continuity, efficiency, and citizen‑driven adaptation.
