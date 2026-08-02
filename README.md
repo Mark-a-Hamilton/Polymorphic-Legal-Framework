@@ -147,7 +147,7 @@ This document makes the framework tangible and relatable.
 
 ---
 
-# **🔧 Supporting Documents (Second Layer)**  
+# **🔧 Supporting Documents**  
 These documents provide the mechanics behind the framework:
 
 - 7️⃣   **[House of Experts](./docs/07-House-of-Experts.md)**  
@@ -160,7 +160,9 @@ These documents provide the mechanics behind the framework:
 - 1️⃣4️⃣  **[Root Cause Analysis](./docs/14-Root-Cause-Analysis.md)**
 - 1️⃣5️⃣ **[Governance Flow Diagram](./docs/15-Governance-Flow-Diagram.md)**
 - 1️⃣6️⃣ **[Frequently Asked Questions](./docs/FAQs.md)**
-- 1️⃣7️⃣ **[Glossary](./docs/17-Glossary.md)**  
+- 1️⃣7️⃣ **[Glossary](./docs/17-Glossary.md)**
+- 1️⃣8️⃣  **[Comparative Models](./docs/18-Comparative-Models.md)**
+- 1️⃣9️⃣ **[Risks & Mitigations](./docs/19-Risks-and-Mitigations.md)**
 
 Each of these is linked from the base documents, creating a clean, navigable structure.
 
