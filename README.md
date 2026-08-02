@@ -158,8 +158,8 @@ These documents provide the mechanics behind the framework:
 - 🛡️ **Legal‑Safety‑and‑Continuity.md**  
 - 👤 **PM‑Role.md**  
 - 🔍 **Root‑Cause‑Analysis.md**  
-- 🧩 **Governance‑Flow‑Diagram.md**  
-- 📘 **Glossary.md**  
+- 🧩 **Governance‑Flow‑Diagram.md**
+- 1️⃣7️⃣📚 **[Glossary](./docs/17-Glossary.md)**  
 - ❓ **FAQ.md**
 
 Each of these is linked from the base documents, creating a clean, navigable structure.
@@ -200,10 +200,5 @@ Copilot contributed to the organisation, explanation, and professional presentat
 > It is the next step in its evolution.**
 
 This statement is intentionally short, calm, and profound — something a reader will remember after closing the page.
-
----
-
-### 🔗 **Navigation**
-1️⃣7️⃣📚 **[Glossary](./docs/17-Glossary.md)**
 
 ---
