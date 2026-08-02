@@ -1,4 +1,4 @@
-# **1️⃣3️⃣🧩 Mission Integrity**
+# **1️⃣3️⃣ Mission Integrity**
 
 ## **📘 Purpose of This Document**  
 Mission Integrity explains **how polymorphic laws remain a coherent framework**, rather than a loose collection of independent laws. It describes how missions are structured, how they interact, and how the **House of Experts** ensures that every law aligns with the wider legal architecture of the UK.
