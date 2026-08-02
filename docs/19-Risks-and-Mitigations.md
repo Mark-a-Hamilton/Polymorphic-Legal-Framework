@@ -1,4 +1,4 @@
-# **1️⃣9️⃣⚠️ Risks and Mitigations**
+# **1️⃣9️⃣ Risks and Mitigations**
 
 ## **📘 Purpose of This Document**  
 This document provides a **neutral, factual overview** of the structural risks found in static law and the corresponding mitigations introduced by the Polymorphic Legal Framework. The goal is not to persuade, but to show how each system behaves under real‑world conditions.
