@@ -150,7 +150,7 @@ This document makes the framework tangible and relatable.
 # **🔧 Supporting Documents (Second Layer)**  
 These documents provide the mechanics behind the framework:
 
-- **7️⃣ [House of Experts](./docs/07-House‑of‑Experts.md)**  
+- 7️⃣ **[House of Experts](./docs/07-House-of-Experts.md)**  
 - 🌐 **Cascading‑Methodology.md**  
 - 🔁 **Definitions‑Update‑Cycle.md**  
 - 🗳️ **Election‑Mechanism.md**  
