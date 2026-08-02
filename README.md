@@ -156,11 +156,11 @@ These documents provide the mechanics behind the framework:
 - 1️⃣0️⃣ **[Prime Minister's Role](./docs/0-PM-Role.md)**
 - 1️⃣1️⃣ **[Definitions Update Cycle](./docs/11-Definitions-Update-Cycle.md)**
 - 1️⃣2️⃣ **[Legal Safety & Continuity](./docs/12-Legal-Safety-and-Continuity.md)**  
-- 1️⃣3️⃣ **[Mission Integrity](./docs/13-Mission-Integrity.md)**  
-- 🔍 **Root‑Cause‑Analysis.md**  
-- 🧩 **Governance‑Flow‑Diagram.md**
+- 1️⃣3️⃣ **[Mission Integrity](./docs/13-Mission-Integrity.md)**
+- 1️⃣4️⃣  **[Root Cause Analysis](./docs/14-Root-Cause-Analysis.md)**
+- 1️⃣5️⃣ **[Governance Flow Diagram](./docs/15-Governance-Flow-Diagram.md)**
+- 1️⃣6️⃣ **[Frequently Asked Questions](./docs/FAQs.md)**
 - 1️⃣7️⃣📚 **[Glossary](./docs/17-Glossary.md)**  
-- ❓ **FAQ.md**
 
 Each of these is linked from the base documents, creating a clean, navigable structure.
 
