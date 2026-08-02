@@ -150,9 +150,9 @@ This document makes the framework tangible and relatable.
 # **🔧 Supporting Documents**  
 These documents provide the mechanics behind the framework:
 
-- **7️⃣   [House of Experts](./docs/07-House-of-Experts.md)**  
-- 8️⃣   **[Cascading Methodology](./docs/08-Cascading-Methodology.md)**
-- 9️⃣   **[Election Mechanisms](./docs/09-Election-Mechanism.md)**
+- **7️⃣[ House of Experts](./docs/07-House-of-Experts.md)**  
+- 8️⃣ **[Cascading Methodology](./docs/08-Cascading-Methodology.md)**
+- 9️⃣ **[Election Mechanisms](./docs/09-Election-Mechanism.md)**
 - 1️⃣0️⃣ **[Prime Minister's Role](./docs/0-PM-Role.md)**
 - 1️⃣1️⃣ **[Definitions Update Cycle](./docs/11-Definitions-Update-Cycle.md)**
 - 1️⃣2️⃣ **[Legal Safety & Continuity](./docs/12-Legal-Safety-and-Continuity.md)**  
