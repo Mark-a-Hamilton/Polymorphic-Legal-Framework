@@ -160,7 +160,7 @@ These documents provide the mechanics behind the framework:
 - 1️⃣4️⃣  **[Root Cause Analysis](./docs/14-Root-Cause-Analysis.md)**
 - 1️⃣5️⃣ **[Governance Flow Diagram](./docs/15-Governance-Flow-Diagram.md)**
 - 1️⃣6️⃣ **[Frequently Asked Questions](./docs/FAQs.md)**
-- 1️⃣7️⃣📚 **[Glossary](./docs/17-Glossary.md)**  
+- 1️⃣7️⃣ **[Glossary](./docs/17-Glossary.md)**  
 
 Each of these is linked from the base documents, creating a clean, navigable structure.
 
