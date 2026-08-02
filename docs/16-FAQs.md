@@ -1,4 +1,4 @@
-# **16️⃣❓ Frequently Asked Questions (FAQs)**
+# **1️⃣6️⃣❓ Frequently Asked Questions (FAQs)**
 
 ## **📘 Purpose of This Document**  
 This FAQ provides clear, plain‑English answers to the most common questions about the **Polymorphic Legal Framework**, explaining how missions, definitions, experts, elections, and Parliament work together to create a modern, efficient, citizen‑focused legal system.
