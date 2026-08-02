@@ -1,4 +1,4 @@
-# **7️⃣ Real‑World Cascade Example — Illegal Channel Crossings**
+# **8️⃣ Real‑World Cascade Example — Illegal Channel Crossings**
 
 ---
 
