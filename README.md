@@ -150,9 +150,9 @@ This document makes the framework tangible and relatable.
 # **🔧 Supporting Documents (Second Layer)**  
 These documents provide the mechanics behind the framework:
 
-- 7️⃣ **[House of Experts](./docs/07-House-of-Experts.md)**  
-- 8️⃣ **[Cascading Methodology](./docs/08-Cascading-Methodology.md)**  
-- 🔁 **Definitions‑Update‑Cycle.md**  
+- 7️⃣   **[House of Experts](./docs/07-House-of-Experts.md)**  
+- 8️⃣   **[Cascading Methodology](./docs/08-Cascading-Methodology.md)**  
+- 1️⃣1️⃣ **[Definitions Update Cycle](./docs/11-Definitions-Update-Cycle.md)**  
 - 🗳️ **Election‑Mechanism.md**  
 - 🎯 **Mission‑Integrity.md**  
 - 🛡️ **Legal‑Safety‑and‑Continuity.md**  
