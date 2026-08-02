@@ -1,4 +1,4 @@
-# **18️⃣⚖️ Comparative Models**
+# **1️⃣8️⃣⚖️ Comparative Models**
 
 ## **📘 Purpose of This Document**  
 This document provides a **neutral, factual comparison** between:
