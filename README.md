@@ -202,3 +202,5 @@ Copilot contributed to the organisation, explanation, and professional presentat
 This statement is intentionally short, calm, and profound — something a reader will remember after closing the page.
 
 ---
+### **Navigation**  
+1️⃣7️⃣📚 **[Glossary](./docs/17-Glossary.md)**
