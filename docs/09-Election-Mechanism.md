@@ -158,12 +158,12 @@ This is the governance shift created by polymorphic law.
 ---
 
 ### 🔗 **Navigation**
-📘 **[README.md](../README.md)**    
-3️⃣ **[Polymorphic Law](./03-Polymorphic-Law.md)**      
-4️⃣ **[Static b Polymorphic Law](./04-Static-v-Polymorphic-Law.md)**  
-7️⃣ **[House of Experts](./docs/07-House-of-Experts.md)**   
-8️⃣ **[Cascading Methodology](./docs/08-Cascading-Methodology.md)**  
-1️⃣0️⃣ **[Prime Minister's Role](./docs/0-PM-Role.md)**  
-1️⃣1️⃣ **[Definitions Update Cycle](./docs/11-Definitions-Update-Cycle.md)**  
+**📘 [README.md](../README.md)**    
+**3️⃣ [Polymorphic Law](./03-Polymorphic-Law.md)**      
+**4️⃣ [Static b Polymorphic Law](./04-Static-v-Polymorphic-Law.md)**  
+**7️⃣ [House of Experts](./docs/07-House-of-Experts.md)**   
+**8️⃣ [Cascading Methodology](./docs/08-Cascading-Methodology.md)**  
+**1️⃣0️⃣ [Prime Minister's Role](./docs/0-PM-Role.md)**  
+**1️⃣1️⃣ [Definitions Update Cycle](./docs/11-Definitions-Update-Cycle.md)**  
 
 ---
