@@ -103,6 +103,6 @@ This is how polymorphic law becomes a **coherent, adaptive framework**, not a co
 **7️⃣ [House of Experts](./07-House-of-Experts.md)**  
 **9️⃣ [Election Mechanisms](./09-Election-Mechanism.md)**  
 **1️⃣0️⃣ [Prime Minister's Role](./10-PM-Role.md)**  
-**1️⃣1️⃣ [Definitions Update Cycle](./docs/11-Definitions-Update-Cycle.md)**  
+**1️⃣1️⃣ [Definitions Update Cycle](./11-Definitions-Update-Cycle.md)**  
 
 ---
