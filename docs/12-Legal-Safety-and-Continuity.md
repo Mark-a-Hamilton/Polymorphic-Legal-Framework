@@ -120,8 +120,6 @@ This creates a legal system that is:
 and fundamentally **more aligned with the people it serves**.
 
 ---
-####
----
 
 ### 🔗 Navigation
 **📘 [Return to README.md](../README.md)**  
@@ -133,18 +131,3 @@ and fundamentally **more aligned with the people it serves**.
 **1️⃣1️⃣ [Definitions Update Cycle](./11-Definitions-Update-Cycle.md)**
 
 ---
-###########
-
-- 7️⃣ **[House of Experts](./docs/07-House-of-Experts.md)**  
-- 8️⃣ **[Cascading Methodology](./docs/08-Cascading-Methodology.md)**
-- 
-- - 
-- 1️⃣2️⃣ **[Legal Safety & Continuity](./docs/12-Legal-Safety-and-Continuity.md)**  
-- 1️⃣3️⃣ **[Mission Integrity](./docs/13-Mission-Integrity.md)**
-- 1️⃣4️⃣  **[Root Cause Analysis](./docs/14-Root-Cause-Analysis.md)**
-- 1️⃣5️⃣ **[Governance Flow Diagram](./docs/15-Governance-Flow-Diagram.md)**
-- 1️⃣6️⃣ **[Frequently Asked Questions](./docs/FAQs.md)**
-- 1️⃣7️⃣ **[Glossary](./docs/17-Glossary.md)**
-- 1️⃣8️⃣  **[Comparative Models](./docs/18-Comparative-Models.md)**
-- 1️⃣9️⃣ **[Risks & Mitigations](./docs/19-Risks-and-Mitigations.md)**
-###########
