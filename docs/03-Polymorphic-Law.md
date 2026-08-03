@@ -155,9 +155,9 @@ This resolves the mismatch between:
 📘 **[Return to README.md](../README.md)**  
 1️⃣ **[Polymorphic Principle](./01-Polymorphism-Principle.md)**    
 2️⃣ **[Current Static Law](./02-Current-Static-Law.md)**     
-7️⃣ **[House of Experts](./docs/07-House-of-Experts.md)**   
-9️⃣ **[Election Mechanisms](./docs/09-Election-Mechanism.md)**  
-1️⃣0️⃣ **[Prime Minister's Role](./docs/0-PM-Role.md)**  
-1️⃣1️⃣ **[Definitions Update Cycle](./docs/11-Definitions-Update-Cycle.md)**
+7️⃣ **[House of Experts](./07-House-of-Experts.md)**   
+9️⃣ **[Election Mechanisms](./09-Election-Mechanism.md)**  
+1️⃣0️⃣ **[Prime Minister's Role](./10-PM-Role.md)**  
+1️⃣1️⃣ **[Definitions Update Cycle](./11-Definitions-Update-Cycle.md)**
 
 ---
