@@ -151,7 +151,7 @@ This minnnnnnsmatch is what motivates the exploration of polymorphic law.
 ---
 
 ### 🔗 Navigation
-📘 [Return to README.md](../README.md)
-1️⃣ [Polymorphism Principle](./01-Polymorphism-Principle.md)
+📘 [Return to README.md](../README.md)  
+1️⃣ [Polymorphism Principle](./01-Polymorphism-Principle.md)  
 3️⃣ [Polymorphic Law](./03-Polymorphic-Law.md)
 
