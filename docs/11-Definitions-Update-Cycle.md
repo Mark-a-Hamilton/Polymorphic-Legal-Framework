@@ -267,10 +267,10 @@ The law remains stable and constitutionally intact.
 ### 🔗 Navigation
 **📘 [Return to README.md](../README.md)**  
 **3️⃣ [Polymorphic Law](./docs/03-Polymorphic-Law.md)**  
-**4️⃣ [Static v Polymorphic Law](./docs/04-Static-v-Polymorphic-Law.md)
+**4️⃣ [Static v Polymorphic Law](./docs/04-Static-v-Polymorphic-Law.md)  
 **7️⃣ [House of Experts](./docs/07-House-of-Experts.md)**  
-**9️⃣ [Election Mechanisms](./docs/09-Election-Mechanism.md)**
-**1️⃣0️⃣ [Prime Minister's Role](./docs/0-PM-Role.md)**
+**9️⃣ [Election Mechanisms](./docs/09-Election-Mechanism.md)**  
+**1️⃣0️⃣ [Prime Minister's Role](./docs/0-PM-Role.md)**  
 
 ---
 ##########
