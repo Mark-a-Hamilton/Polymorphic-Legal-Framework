@@ -118,8 +118,8 @@ This is the entire purpose of this page — to make polymorphism accessible to a
 ---
 
 ### 🔗 Navigation
-📘 [Return to README.md](../README.md)  
-2️⃣ [Current Static Law](./02-Current-Static-Law.md)  
-3️⃣ [Polymorphic Law](./03-Polymorphic-Law.md)
+📘 **[Return to README.md](../README.md)**  
+2️⃣ **[Current Static Law](./02-Current-Static-Law.md)**  
+3️⃣ **[Polymorphic Law](./03-Polymorphic-Law.md)**
 
 ---
