@@ -124,6 +124,6 @@ This is the structural difference that makes the polymorphic model more practica
 📘 **[README.md](../README.md)**  
 2️⃣ **[Current Static Law](./02-Current-Static-Law.md)**  
 3️⃣ **[Polymorphic Law](./03-Polymorphic-Law.md)**  
-7️⃣ **[House of Experts](../layer2/House-of-Experts.md)**
+7️⃣ **[House of Experts](./07-House-of-Experts.md)**
 
 ---
