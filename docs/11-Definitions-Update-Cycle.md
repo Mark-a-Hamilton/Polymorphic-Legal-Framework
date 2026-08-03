@@ -262,7 +262,6 @@ The environment the law operates in is always modern (<5 years old).
 The law remains stable and constitutionally intact.
 
 ---
----
 
 ### 🔗 Navigation
 **📘 [Return to README.md](../README.md)**  
@@ -273,18 +272,3 @@ The law remains stable and constitutionally intact.
 **1️⃣0️⃣ [Prime Minister's Role](./docs/10-PM-Role.md)**  
 
 ---
-##########
-- 7️⃣ **[House of Experts](./ocs/07-House-of-Experts.md)**  
-- 8️⃣ **[Cascading Methodology](./docs/08-Cascading-Methodology.md)**
-- 
-- 
-- 1️⃣1️⃣ **[Definitions Update Cycle](./docs/11-Definitions-Update-Cycle.md)**
-- 1️⃣2️⃣ **[Legal Safety & Continuity](./docs/12-Legal-Safety-and-Continuity.md)**  
-- 1️⃣3️⃣ **[Mission Integrity](./docs/13-Mission-Integrity.md)**
-- 1️⃣4️⃣  **[Root Cause Analysis](./docs/14-Root-Cause-Analysis.md)**
-- 1️⃣5️⃣ **[Governance Flow Diagram](./docs/15-Governance-Flow-Diagram.md)**
-- 1️⃣6️⃣ **[Frequently Asked Questions](./docs/FAQs.md)**
-- 1️⃣7️⃣ **[Glossary](./docs/17-Glossary.md)**
-- 1️⃣8️⃣  **[Comparative Models](./docs/18-Comparative-Models.md)**
-- 1️⃣9️⃣ **[Risks & Mitigations](./docs/19-Risks-and-Mitigations.md)**
-###########
