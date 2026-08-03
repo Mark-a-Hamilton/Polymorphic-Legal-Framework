@@ -144,9 +144,6 @@ This completes the cycle and prepares the next round of updates.
 
 ### 🔗 **Navigation**
 📘 [README.md](../README.md)    
-- **16️⃣ Upstream‑Definition‑Mapping.md**  
-- **17️⃣ Expert‑Workflow.md**  
-- **18️⃣ Manifesto‑Pipeline.md**  
 
 ---
 ###########
