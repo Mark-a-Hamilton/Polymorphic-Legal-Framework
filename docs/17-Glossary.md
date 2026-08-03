@@ -1,4 +1,4 @@
-# **1️⃣7️⃣📚 Glossary**
+# **1️⃣7️⃣ Glossary**
 
 ## **📘 Purpose of This Document**  
 This glossary defines all core terms used throughout the **Polymorphic Legal Framework**, ensuring clarity, consistency, and easy navigation across the entire system. Each term is written in plain English and aligned with the structure of your documents.
