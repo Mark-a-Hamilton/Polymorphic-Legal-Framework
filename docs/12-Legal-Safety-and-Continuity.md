@@ -120,21 +120,25 @@ This creates a legal system that is:
 and fundamentally **more aligned with the people it serves**.
 
 ---
+####
+---
 
-### 🔗 **Navigation**
-📘 [README.md](../README.md)    
-13️⃣ Continuity‑Pipeline.md  
-14️⃣ Mission‑Integrity‑Checks.md  
-15️⃣ Legal‑Contradiction‑Resolver.md
+### 🔗 Navigation
+**📘 [Return to README.md](../README.md)**  
+**3️⃣ [Polymorphic Law](./03-Polymorphic-Law.md)**  
+**4️⃣ [Static v Polymorphic Law](./04-Static-v-Polymorphic-Law.md)**  
+**7️⃣ [House of Experts](./07-House-of-Experts.md)**  
+**9️⃣ [Election Mechanisms](./09-Election-Mechanism.md)**    
+**1️⃣0️⃣ [Prime Minister's Role](./10-PM-Role.md)**  
+**1️⃣1️⃣ [Definitions Update Cycle](./11-Definitions-Update-Cycle.md)**
 
 ---
 ###########
 
 - 7️⃣ **[House of Experts](./docs/07-House-of-Experts.md)**  
 - 8️⃣ **[Cascading Methodology](./docs/08-Cascading-Methodology.md)**
-- 9️⃣ **[Election Mechanisms](./docs/09-Election-Mechanism.md)**
-- 1️⃣0️⃣ **[Prime Minister's Role](./docs/0-PM-Role.md)**
-- 1️⃣1️⃣ **[Definitions Update Cycle](./docs/11-Definitions-Update-Cycle.md)**
+- 
+- - 
 - 1️⃣2️⃣ **[Legal Safety & Continuity](./docs/12-Legal-Safety-and-Continuity.md)**  
 - 1️⃣3️⃣ **[Mission Integrity](./docs/13-Mission-Integrity.md)**
 - 1️⃣4️⃣  **[Root Cause Analysis](./docs/14-Root-Cause-Analysis.md)**
