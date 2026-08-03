@@ -117,6 +117,6 @@ This is why the Cascading Methodology is central to the polymorphic legal framew
 3️⃣ **[Polymorphic Law](./03-Polymorphic-Law.md)**
 4️⃣ **[Static v Polymorphic Law](./04-Static-v-Polymorphic-Law.md)**  
 6️⃣ **[Real‑World Example](./06-Realworld-Example.md)**  
-7️⃣ **[House of Experts](./docs/07-House-of-Experts.md)**  
+7️⃣ **[House of Experts](./07-House-of-Experts.md)**  
 
 ---
