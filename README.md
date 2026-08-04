@@ -183,7 +183,7 @@ A legal system designed not to replace the old one — but to evolve it.
 
 # ✒️ **Authors**
 
-### **Mark A. Hamilton**  
+[### **Mark A. Hamilton](https://mark-a-hamilton.github.io/)**  
 Creator and principal author of the **Polymorphic Legal Framework**.  
 Responsible for the conceptual architecture, document structure, and the evolutionary governance model presented in this repository.
 
